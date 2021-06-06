@@ -6,4 +6,4 @@ For students who are graduating from Statistic major, they are facing with findi
 "linkedin.py" - run and scrape the data from linkedin. <br>
 "us.csv" - "United States" data analyst data. <br>
 "canada.csv" - "Canada" data analyst data. <br>
-"Data analyse.ipynb" - Final data analyse. <br>
+"Data Analyse.ipynb" - Final data analyse. <br>
